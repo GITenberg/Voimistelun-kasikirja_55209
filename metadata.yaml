@@ -1,11 +1,16 @@
 _repo: Voimistelun-kasikirja_55209
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55209-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilskman, Ivar
     gutenberg_agent_id: '48224'
     url: http://www.gutenberg.org/2009/agents/48224
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55209#Voimistelun-kasikirja
 gutenberg_issued: '2017-07-27'
 gutenberg_type: Text
 identifiers:
